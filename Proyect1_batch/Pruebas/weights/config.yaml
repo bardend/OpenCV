@@ -1,0 +1,7 @@
+cuda: True
+
+#weight_dir: ./weights/best.onnx # Para fastAPI
+weight_dir: ./weights/best.onnx # Para gRCP
+
+labels:
+  - Person
